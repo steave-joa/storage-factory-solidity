@@ -39,4 +39,4 @@ Factory contract that:
 Deployed and tested on testnet.
 
 ## Author
-Steave JOA
+Joa Steave Kaleph
